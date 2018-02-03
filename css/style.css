@@ -11,3 +11,9 @@
 a {
 	text-decoration: none !important;
 }
+
+#myProjects {
+	color: #ffffff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
