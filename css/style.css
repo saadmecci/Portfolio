@@ -1,0 +1,13 @@
+#customColor {
+	color: #000000;
+	text-decoration: none !important;
+}
+
+#customColor:hover {
+	color: #E0674B;
+	text-decoration: none !important;
+}
+
+a {
+	text-decoration: none !important;
+}
